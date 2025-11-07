@@ -14,3 +14,21 @@ $$ A =
 0 & 1 \\
 \end{pmatrix}
 $$
+
+MUESTRA
+
+Calcula la suma de A y B
+
+$$ A =
+\begin{matrix}
+1 & 2 & 3 \\
+4 & 5 & 6 \\
+\end{matrix}
+$$
+
+$$ B =
+\begin{matrix}
+9 & 10 & 11 \\
+12 & 13 & 14 \\
+\end{matrix}
+$$
