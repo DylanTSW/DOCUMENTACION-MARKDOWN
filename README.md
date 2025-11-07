@@ -6,7 +6,7 @@
 ---
 ### Identificación de matrices
 
-Matriz identidad, porqque la diagonal está compuestos por solo unos y los elementos fuera de la diagonal son ceros.
+Matriz identidad, porque la diagonal está compuestos por solo unos y los elementos fuera de la diagonal son ceros.
 
 $$ A =
 \begin{pmatrix*}
