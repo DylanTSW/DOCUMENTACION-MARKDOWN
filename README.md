@@ -34,22 +34,62 @@ El archivo contiene **14 hojas**, divididas en:
 
 La estructura general es la siguiente:
 
-```
+
 imagen 1
+
+<img width="931" height="537" alt="image" src="https://github.com/user-attachments/assets/1bb4ef11-8660-4967-8274-d4de43b606af" />
+
 Transpuesta 1
+
+<img width="1109" height="661" alt="image" src="https://github.com/user-attachments/assets/1f3a4f14-85ac-49de-9f03-afb259b9558c" />
+
 imagen 2
+
+<img width="1077" height="630" alt="image" src="https://github.com/user-attachments/assets/0821a60d-e65d-4f89-9485-cc045b5d7d79" />
+
 Transpuesta 2
+
+<img width="989" height="567" alt="image" src="https://github.com/user-attachments/assets/6bc807cd-2de6-473f-870e-a660cd2d0628" />
+
 Imagen 3
+
+<img width="1193" height="653" alt="image" src="https://github.com/user-attachments/assets/c9bc71e0-d193-4e93-9fcb-49bcf30e6f73" />
+
 Transpuesta 3
+
+<img width="806" height="478" alt="image" src="https://github.com/user-attachments/assets/78dac6fd-d766-44a0-96cd-be17ba886a3f" />
+
 imagen 4
+
+<img width="1086" height="628" alt="image" src="https://github.com/user-attachments/assets/0d220d03-98cb-4ca0-a552-049dbae9e310" />
+
 Transpuesta 4
+
+<img width="1092" height="637" alt="image" src="https://github.com/user-attachments/assets/75773f01-149a-47af-8fbd-0c41a718b446" />
+
 imagen 5
+
+<img width="840" height="510" alt="image" src="https://github.com/user-attachments/assets/85738252-f67f-4634-933b-acec2a0f1a95" />
+
 Transpuesta 5
+
+<img width="779" height="446" alt="image" src="https://github.com/user-attachments/assets/e429df72-9309-4f8d-8473-721c8d397705" />
+
 Suma
+
+<img width="928" height="538" alt="image" src="https://github.com/user-attachments/assets/6b6a1839-8906-4e18-b833-2d2f585aa690" />
+
 Resta
+
+<img width="1139" height="658" alt="image" src="https://github.com/user-attachments/assets/5a3b5ae8-8d18-42f1-a9ee-3a52547d4840" />
+
 Multiplicacion Escalar
+
+<img width="895" height="508" alt="image" src="https://github.com/user-attachments/assets/a62dc7e5-83d2-4734-97b2-a2cc0b6ba82a" />
+
 Composicion 
-```
+
+<img width="780" height="447" alt="image" src="https://github.com/user-attachments/assets/23b5b886-8ed9-47bc-a688-5b53ad7df236" />
 
 ---
 
@@ -101,7 +141,7 @@ La fórmula se arrastra hasta cubrir la matriz completa.
 
 ##  **5.2 Suma de Matrices**
 
-### ✦ Fórmula en Excel
+### Fórmula en Excel
 
 Ejemplo sumando `imagen 1` + `imagen 2`:
 
