@@ -145,8 +145,6 @@ x+y=3\\
 \end{cases}
 $$
 
-**Conclusión:**  
-Tiene infinitas soluciones.
 
 ---
 
@@ -158,8 +156,6 @@ x+y=3\\
 \end{cases}
 $$
 
-**Conclusión:**  
-No tiene solución.
 
 ---
 
@@ -171,8 +167,6 @@ x-y=1
 \end{cases}
 $$
 
-**Conclusión:**  
-Solución única:
 
 $$
 (x,y)=(2,1)
